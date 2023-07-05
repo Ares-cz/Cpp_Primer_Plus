@@ -1,0 +1,4 @@
+# ninja log v5
+0	97	1688558824553734848	build.ninja	8393051be1d93323
+713	843	1688554020523597814	cpp_primer_plus	aca170cfee29bc20
+0	713	1688554020390731167	CMakeFiles/cpp_primer_plus.dir/p2_6_convert.cpp.o	a8a158a4e17680dd
