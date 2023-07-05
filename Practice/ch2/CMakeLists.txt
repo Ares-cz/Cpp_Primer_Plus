@@ -3,4 +3,4 @@ project(ch2)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(ch2 2.1.cpp)
+add_executable(ch2 2.7.cpp 2.7.cpp)

@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/zhen/Cpp_Primer_Plus/Practice/ch2/cmake-build-debug
 
 build cmake_object_order_depends_target_ch2: phony || CMakeFiles/ch2.dir
 
-build CMakeFiles/ch2.dir/2.1.cpp.o: CXX_COMPILER__ch2_Debug /Users/zhen/Cpp_Primer_Plus/Practice/ch2/2.1.cpp || cmake_object_order_depends_target_ch2
-  DEP_FILE = CMakeFiles/ch2.dir/2.1.cpp.o.d
+build CMakeFiles/ch2.dir/2.7.cpp.o: CXX_COMPILER__ch2_Debug /Users/zhen/Cpp_Primer_Plus/Practice/ch2/2.7.cpp || cmake_object_order_depends_target_ch2
+  DEP_FILE = CMakeFiles/ch2.dir/2.7.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++11
   OBJECT_DIR = CMakeFiles/ch2.dir
   OBJECT_FILE_DIR = CMakeFiles/ch2.dir
@@ -60,7 +60,7 @@ build CMakeFiles/ch2.dir/2.1.cpp.o: CXX_COMPILER__ch2_Debug /Users/zhen/Cpp_Prim
 #############################################
 # Link the executable ch2
 
-build ch2: CXX_EXECUTABLE_LINKER__ch2_Debug CMakeFiles/ch2.dir/2.1.cpp.o
+build ch2: CXX_EXECUTABLE_LINKER__ch2_Debug CMakeFiles/ch2.dir/2.7.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/ch2.dir
   POST_BUILD = :
