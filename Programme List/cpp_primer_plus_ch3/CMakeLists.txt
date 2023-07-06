@@ -3,4 +3,4 @@ project(cpp_primer_plus_ch3)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cpp_primer_plus_ch3 p3_2_exceed.cpp)
+add_executable(cpp_primer_plus_ch3  p3_14_typecast.cpp)
