@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/zhen/Cpp_Primer_Plus/Practice/ch3/cmake-build-debug
 
 build cmake_object_order_depends_target_ch3: phony || CMakeFiles/ch3.dir
 
-build CMakeFiles/ch3.dir/3.1.cpp.o: CXX_COMPILER__ch3_Debug /Users/zhen/Cpp_Primer_Plus/Practice/ch3/3.1.cpp || cmake_object_order_depends_target_ch3
-  DEP_FILE = CMakeFiles/ch3.dir/3.1.cpp.o.d
+build CMakeFiles/ch3.dir/3.7.cpp.o: CXX_COMPILER__ch3_Debug /Users/zhen/Cpp_Primer_Plus/Practice/ch3/3.7.cpp || cmake_object_order_depends_target_ch3
+  DEP_FILE = CMakeFiles/ch3.dir/3.7.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++11
   INCLUDES = -I/Users/zhen/Cpp_Primer_Plus/Practice/ch3/.
   OBJECT_DIR = CMakeFiles/ch3.dir
@@ -61,7 +61,7 @@ build CMakeFiles/ch3.dir/3.1.cpp.o: CXX_COMPILER__ch3_Debug /Users/zhen/Cpp_Prim
 #############################################
 # Link the executable ch3
 
-build ch3: CXX_EXECUTABLE_LINKER__ch3_Debug CMakeFiles/ch3.dir/3.1.cpp.o
+build ch3: CXX_EXECUTABLE_LINKER__ch3_Debug CMakeFiles/ch3.dir/3.7.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/ch3.dir
   POST_BUILD = :

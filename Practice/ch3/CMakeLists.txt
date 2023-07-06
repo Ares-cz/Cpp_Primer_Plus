@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(.)
 
-add_executable(ch3 3.1.cpp)
+add_executable(ch3 3.7.cpp)
