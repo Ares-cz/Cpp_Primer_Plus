@@ -1,0 +1,17 @@
+# ninja log v5
+0	782	1688882909042675016	CMakeFiles/cpp_primer_plus_ch4.dir/p4_9_strtype3.cpp.o	95f7acbc10429102
+16	731	1688882454854759635	CMakeFiles/cpp_primer_plus_ch4.dir/p4_8_strtype2.cpp.o	f6143054c7856b8c
+0	860	1688881775134359274	CMakeFiles/cpp_primer_plus_ch4.dir/p4_7_strtype1.cpp.o	6d5c41d3e7469a30
+16	707	1688878772413032143	CMakeFiles/cpp_primer_plus_ch4.dir/p4_4_instr2.cpp.o	a66f55347ce4c9ff
+16	700	1688880182277711368	CMakeFiles/cpp_primer_plus_ch4.dir/p4_6_numstr.cpp.o	38c391c52461e611
+782	894	1688882909158731180	cpp_primer_plus_ch4	9ee273f27ca132b4
+15	727	1688877416399487729	CMakeFiles/cpp_primer_plus_ch4.dir/p4_3_instr1.cpp.o	922a021ebd8e18c1
+16	753	1688876927924762460	CMakeFiles/cpp_primer_plus_ch4.dir/p4_2_string.cpp.o	6be171201b42cee5
+0	712	1688874088719179285	CMakeFiles/cpp_primer_plus_ch4.dir/p4_1_arrayone.cpp.o	648bee75b114cb8c
+0	707	1688879084021831770	CMakeFiles/cpp_primer_plus_ch4.dir/p4_5_instr3.cpp.o	433deb07be9fddae
+0	94	1688883992192807431	build.ninja	259a9d7f4af28233
+0	101	1688883992192807431	build.ninja	259a9d7f4af28233
+0	659	1688883992864604564	CMakeFiles/cpp_primer_plus_ch4.dir/p4_10_strtype4.cpp.o	d0deb4108226e37a
+659	771	1688883992979993243	cpp_primer_plus_ch4	5b9c3e09a9786a62
+16	847	1688884088181872567	CMakeFiles/cpp_primer_plus_ch4.dir/p4_10_strtype4.cpp.o	d0deb4108226e37a
+848	965	1688884088302911851	cpp_primer_plus_ch4	5b9c3e09a9786a62
