@@ -3,4 +3,4 @@ project(cpp_primer_plus_ch4)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cpp_primer_plus_ch4  p4_10_strtype4.cpp)
+add_executable(cpp_primer_plus_ch4 p4_17_use_new.cpp)
