@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/zhen/Cpp_Primer_Plus/Programme$ List/cpp_primer_plu
 
 build cmake_object_order_depends_target_cpp_primer_plus_ch4: phony || CMakeFiles/cpp_primer_plus_ch4.dir
 
-build CMakeFiles/cpp_primer_plus_ch4.dir/p4_17_use_new.cpp.o: CXX_COMPILER__cpp_primer_plus_ch4_Debug /Users/zhen/Cpp_Primer_Plus/Programme$ List/cpp_primer_plus_ch4/p4_17_use_new.cpp || cmake_object_order_depends_target_cpp_primer_plus_ch4
-  DEP_FILE = CMakeFiles/cpp_primer_plus_ch4.dir/p4_17_use_new.cpp.o.d
+build CMakeFiles/cpp_primer_plus_ch4.dir/p4_19_addpntrs.cpp.o: CXX_COMPILER__cpp_primer_plus_ch4_Debug /Users/zhen/Cpp_Primer_Plus/Programme$ List/cpp_primer_plus_ch4/p4_19_addpntrs.cpp || cmake_object_order_depends_target_cpp_primer_plus_ch4
+  DEP_FILE = CMakeFiles/cpp_primer_plus_ch4.dir/p4_19_addpntrs.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++11
   OBJECT_DIR = CMakeFiles/cpp_primer_plus_ch4.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp_primer_plus_ch4.dir
@@ -60,7 +60,7 @@ build CMakeFiles/cpp_primer_plus_ch4.dir/p4_17_use_new.cpp.o: CXX_COMPILER__cpp_
 #############################################
 # Link the executable cpp_primer_plus_ch4
 
-build cpp_primer_plus_ch4: CXX_EXECUTABLE_LINKER__cpp_primer_plus_ch4_Debug CMakeFiles/cpp_primer_plus_ch4.dir/p4_17_use_new.cpp.o
+build cpp_primer_plus_ch4: CXX_EXECUTABLE_LINKER__cpp_primer_plus_ch4_Debug CMakeFiles/cpp_primer_plus_ch4.dir/p4_19_addpntrs.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/cpp_primer_plus_ch4.dir
   POST_BUILD = :
